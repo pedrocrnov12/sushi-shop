@@ -22,7 +22,7 @@ export const MainPage: FC = () => {
 				}
 			>
 				<Heading>
-					Our new taste <br /> is your new emotions
+					¡Una buena playerita<br /> Es lo que necesitas!
 				</Heading>
 				<Sorting getSortType={getSortType}></Sorting>
 				<Carousel products={products} sortType={sortType} />

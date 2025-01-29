@@ -58,10 +58,10 @@ li {
 :root {
 	--black: #000;
 	--white: #F8F8F8;
-	--orange: #F77F00;
+	--orange: #ffffff;
 	--gray: #969696;
 	--primary: #C5C5C4;
-	--back: #FFBE0B;
+	--back: #ffffff;
 	--green: #0B1408;
 	--green-light: rgb(138 211 148);
 	--font-family: "Poppins", sans-serif;

@@ -4,9 +4,10 @@
 }
 
 .search {
-	caret-color: var(--back);
+	caret-color: var(--black);
 	width: 300px;
 	background-color: var(--white);
+	border-color: black;
 
 	/* outline-style: none; */
 	border-radius: 10px;

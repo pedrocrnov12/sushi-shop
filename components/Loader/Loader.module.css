@@ -1,5 +1,5 @@
 .wrapper {
-	background-color: var(--back);
+	background-color: var(--black);
 	display: flex;
 	height: 100vh;
 	width: 100vw;
@@ -25,10 +25,10 @@
 	min-width: 233%;
 	height: 233%;
 	background:
-		radial-gradient(farthest-side, #000 90%, #0000) top,
-		radial-gradient(farthest-side, #000 90%, #0000) left,
-		radial-gradient(farthest-side, #FFD82E 90%, #0000) bottom,
-		radial-gradient(farthest-side, #000 90%, #0000) right;
+		radial-gradient(farthest-side, #e7e7e7 90%, #e4e0e000) top,
+		radial-gradient(farthest-side, #f3f0f0 90%, #0000) left,
+		radial-gradient(farthest-side, #ffffff 90%, #0000) bottom,
+		radial-gradient(farthest-side, #ffffff 90%, #0000) right;
 	background-size: 43% 43%;
 	background-repeat: no-repeat;
 	animation: inherit;

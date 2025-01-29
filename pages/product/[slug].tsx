@@ -57,10 +57,10 @@ const ProductDetails: FC<IProductDetails> = ({ product }) => {
 			<div className={styles.wrapper}>
 				<div className={styles.heading}>
 					<Heading>
-						You can choose <br />
-						your favorite
-						<br /> flavor according <br />
-						to your mood
+						Tu puedes elegir <br />
+						Tu estilo
+						<br /> De acuerdo a  <br />
+						Tu Mood 
 					</Heading>
 				</div>
 				<div className={styles['container-info']}>

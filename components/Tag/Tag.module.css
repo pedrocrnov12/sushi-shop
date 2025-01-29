@@ -33,8 +33,10 @@
 
 .primary {
 	background-color: var(--primary);
+	
 }
 
 .gray {
 	border: 1px solid var(--gray);
+	
 }

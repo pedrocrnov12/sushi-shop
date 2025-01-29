@@ -24,17 +24,17 @@ const ResultPage: FC = () => {
 			{findElement(searchResult.item).length ? (
 				<div>
 					<div className={styles.text}>
-						{'We found ' +
+						{'Hemos encontrado ' +
 							findElement(searchResult.item).length +
 							(findElement(searchResult.item).length > 1
 								? ' products'
-								: ' product') +
-							' for you'}
+								: ' producto') +
+							' Para ti'}
 					</div>
 					<Catalog products={findElement(searchResult.item)}></Catalog>
 				</div>
 			) : (
-				<div className={styles.text}>Ops... Nothing found 😞 </div>
+				<div className={styles.text}>Ops... No encontre nada 😞 </div>
 			)}
 		</Layout>
 	);

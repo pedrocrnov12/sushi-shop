@@ -7,7 +7,7 @@ const SushiPage: FC = () => {
 	return (
 		<Layout title='Sushi' description='sushi'>
 			<Catalog
-				products={products.filter((product) => product.category === 'sushi')}
+				products={products.filter((product) => product.category === 'AlvaroDiaz')}
 			></Catalog>
 		</Layout>
 	);

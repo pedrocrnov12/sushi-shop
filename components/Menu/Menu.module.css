@@ -4,6 +4,7 @@
 	display: grid;
 	grid-template-columns: auto auto 1fr 1fr;
 	align-items: center;
+	
 }
 
 .logo {
@@ -59,7 +60,7 @@
 		display: block;
 		font-size: 20px;
 		cursor: pointer;
-		background-color: #111;
+		background-color: #ffffff;
 		color: white;
 		padding: 10px 15px;
 		border: none;
